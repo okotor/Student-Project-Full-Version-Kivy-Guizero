@@ -1,4 +1,4 @@
-# Fat Burner App - Simple Version (Mobile/Tablet/Desktop)
+# Fat Burner App - Google Sheets, Simple Version (Mobile/Tablet/Desktop)
 
 This is a mobile/tablet/desktop app to track your weight, fat level and calorie intake/burn using the kivy or guizero GUI.
 
